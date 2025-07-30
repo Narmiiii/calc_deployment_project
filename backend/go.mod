@@ -1,6 +1,6 @@
 module calc_deployment_project
 
-go 1.22.5
+go 1.22
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
